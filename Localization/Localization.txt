@@ -1,0 +1,53 @@
+# Локализация для Subworld Support Mod
+
+# Предметы - Английский
+Items.BossArenaKey.DisplayName=Boss Arena Key
+Items.BossArenaKey.Tooltip=Teleports to a special arena for boss battles\nRight click - enter arena\nLeft click - exit arena
+
+Items.DungeonKey.DisplayName=Mini-Dungeon Key
+Items.DungeonKey.Tooltip=Opens a portal to a mysterious underground labyrinth\nFull of traps, enemies and treasures\nRight click - enter dungeon\nLeft click - exit dungeon
+
+Items.SkyKey.DisplayName=Sky Key
+Items.SkyKey.Tooltip=Transports to a floating island in the sky\nPeaceful place for rest and contemplation\nRight click - ascend to island\nLeft click - descend back
+
+# Предметы - Русский
+Items.BossArenaKey.DisplayName.ru-RU=Ключ от Арены Боссов
+Items.BossArenaKey.Tooltip.ru-RU=Телепортирует в специальную арену для сражений с боссами\nПравый клик - войти в арену\nЛевый клик - выйти из арены
+
+Items.DungeonKey.DisplayName.ru-RU=Ключ от Мини-Данжа
+Items.DungeonKey.Tooltip.ru-RU=Открывает портал в таинственный подземный лабиринт\nПолон ловушек, врагов и сокровищ\nПравый клик - войти в данж\nЛевый клик - выйти из данжа
+
+Items.SkyKey.DisplayName.ru-RU=Небесный Ключ
+Items.SkyKey.Tooltip.ru-RU=Переносит на парящий в небесах остров\nМирное место для отдыха и созерцания\nПравый клик - подняться на остров\nЛевый клик - спуститься обратно
+
+# Команды
+Commands.swtp.Description=Quick teleportation between subworlds
+Commands.swinfo.Description=Shows information about current subworld
+Commands.swlist.Description=Shows list of all available subworlds
+Commands.swdebug.Description=Debug information about subworlds (admins only)
+Commands.swreset.Description=Resets specified subworld (admins only)
+
+Commands.swtp.Description.ru-RU=Быстрая телепортация между подмирами
+Commands.swinfo.Description.ru-RU=Показывает информацию о текущем подмире
+Commands.swlist.Description.ru-RU=Показывает список всех доступных подмиров
+Commands.swdebug.Description.ru-RU=Отладочная информация о подмирах (только для админов)
+Commands.swreset.Description.ru-RU=Сбрасывает указанный подмир (только для админов)
+
+# Сообщения
+Messages.Welcome.BossArena=Welcome to the Boss Arena!
+Messages.Welcome.BossArena.ru-RU=Добро пожаловать в Арену Боссов!
+
+Messages.Welcome.MiniDungeon=You entered the Mini-Dungeon!
+Messages.Welcome.MiniDungeon.ru-RU=Вы вошли в Мини-Данж!
+
+Messages.Welcome.SkyIsland=Welcome to the Sky Island!
+Messages.Welcome.SkyIsland.ru-RU=Добро пожаловать на Небесный Остров!
+
+Messages.Exit.BossArena=You left the Boss Arena
+Messages.Exit.BossArena.ru-RU=Вы покинули Арену Боссов
+
+Messages.Exit.MiniDungeon=You left the Mini-Dungeon
+Messages.Exit.MiniDungeon.ru-RU=Вы покинули Мини-Данж
+
+Messages.Exit.SkyIsland=You descended from the Sky Island
+Messages.Exit.SkyIsland.ru-RU=Вы спустились с Небесного Острова

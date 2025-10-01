@@ -1,0 +1,16 @@
+Items: {
+	BossArenaKey: {
+		DisplayName: Boss Arena Key
+		Tooltip: ""
+	}
+
+	DungeonKey: {
+		DisplayName: Dungeon Key
+		Tooltip: ""
+	}
+
+	SkyKey: {
+		DisplayName: Sky Key
+		Tooltip: ""
+	}
+}
