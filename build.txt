@@ -1,9 +1,0 @@
-displayName = Subworld Support Mod
-author = YourName
-version = 1.0.0
-homepage =
-description = Мод, добавляющий поддержку и новые подмиры для Subworld Library. Включает арены боссов, мини-данжи и другие интересные локации.
-side = Both
-includeSource = true
-
-modReferences = SubworldLibrary

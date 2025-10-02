@@ -1,0 +1,3 @@
+Subworld MP Bridge — прототип для мультиплеера.
+Сервер управляет входом в подмиры (SubworldLibrary, Infernum, Wrath of the Gods).
+Поддержка передачи аргументов через отдельный пакет (например, arenaSize, difficulty).

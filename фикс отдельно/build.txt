@@ -1,0 +1,9 @@
+author = YourName
+version = 0.3.0
+displayName = Subworld MP Bridge
+homepage = 
+hideCode = false
+includeSource = true
+dllReferences =
+modReferences = SubworldLibrary
+side = Both
